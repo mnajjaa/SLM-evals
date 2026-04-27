@@ -1,0 +1,5 @@
+model_label,weakness_rank,section,section_score,quality_score,safety_score,justification
+Llama 3.1,1,Key Risks and Watch Points,0.36000000000000004,0.2,1.0,Model omits key risks; incomplete; no hallucination.
+Llama 3.1,2,Conclusion,0.40800000000000003,0.26,1.0,Model repeats some points but omits many; incomplete; no hallucination.
+Phi-4,1,Executive Summary,0.5439999999999999,0.6799999999999999,0.0,"The summary captures growth, profitability, NPL decline, and CET1 rise, but omits the transition to a mature model, controlled risk metrics, liquidity buffers, and macro‑environment context. No numerical data are provided, so numerical accuracy is high. Trend accuracy is moderate because the model does not mention the moderation of growth. Reasoning is basic and incomplete. No hallucinated facts are present."
+Phi-4,2,Key Risks and Watch Points,0.5439999999999999,0.6799999999999999,0.0,"The model mentions only a few risks (NBI deceleration, NPL rise, cost‑to‑income, liquidity) and omits macroeconomic, sovereign, concentration, and margin compression risks highlighted in the ground truth. No hallucinated facts, but the coverage is incomplete."

@@ -1,0 +1,14 @@
+{
+  "case_id": "BIAT_2021_2024_v1",
+  "models_compared": [
+    "Phi-4",
+    "GPT-3.5"
+  ],
+  "prompt_uri": "prompts:/financial_analysis_baseline/1",
+  "dataset_id": "d-0993f09e3977486fb89838dc2769570e",
+  "rows_generated": 2,
+  "phi4_latency_sec": 32.2288,
+  "gpt35_latency_sec": 12.194,
+  "phi4_total_tokens": 1208,
+  "gpt35_total_tokens": 914
+}

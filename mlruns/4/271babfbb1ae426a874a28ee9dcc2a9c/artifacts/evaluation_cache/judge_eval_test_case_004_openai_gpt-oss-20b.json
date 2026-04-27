@@ -1,0 +1,150 @@
+{
+  "test_case_004|azure_openai_compatible|Phi-4|Phi-4-experimentation-investment-nextgen|openai/gpt-oss-20b|f9e71cd8b3208027": {
+    "Executive Summary": {
+      "faithfulness": 6,
+      "numerical_accuracy": 10,
+      "trend_accuracy": 7,
+      "reasoning_quality": 6,
+      "completeness": 5,
+      "hallucination": 10,
+      "justification": "The summary captures growth, profitability, NPL decline, and CET1 rise, but omits the transition to a mature model, controlled risk metrics, liquidity buffers, and macro‑environment context. No numerical data are provided, so numerical accuracy is high. Trend accuracy is moderate because the model does not mention the moderation of growth. Reasoning is basic and incomplete. No hallucinated facts are present."
+    },
+    "Profitability and Operational Efficiency": {
+      "faithfulness": 8,
+      "numerical_accuracy": 8,
+      "trend_accuracy": 9,
+      "reasoning_quality": 8,
+      "completeness": 6,
+      "hallucination": 9,
+      "justification": "The model correctly states the cost‑to‑income trend and gives ROE figures that largely match the ground truth, though the 2023 ROE of 17.7% is not corroborated. Net income figures are omitted, reducing completeness. No hallucinations beyond the unverified 2023 ROE."
+    },
+    "Revenue Dynamics": {
+      "faithfulness": 9,
+      "numerical_accuracy": 9,
+      "trend_accuracy": 9,
+      "reasoning_quality": 8,
+      "completeness": 7,
+      "hallucination": 10,
+      "justification": "The growth rates for NBI, loans, and deposits align with the ground truth. The summary is faithful and numerically accurate, though it omits mention of the deposit base expansion detail. No hallucinated data."
+    },
+    "Asset Quality and Risk Profile": {
+      "faithfulness": 10,
+      "numerical_accuracy": 10,
+      "trend_accuracy": 10,
+      "reasoning_quality": 9,
+      "completeness": 9,
+      "hallucination": 10,
+      "justification": "All figures and trends match the ground truth exactly. The reasoning is concise but accurate, with no missing or fabricated information."
+    },
+    "Balance Sheet Structure and Liquidity": {
+      "faithfulness": 8,
+      "numerical_accuracy": 8,
+      "trend_accuracy": 8,
+      "reasoning_quality": 8,
+      "completeness": 8,
+      "hallucination": 6,
+      "justification": "The model adds specific asset figures and LCR values not present in the ground truth, which may be plausible but are not verified. The overall trends and ratios are consistent with the ground truth. Minor hallucination risk due to unverified numbers."
+    },
+    "Capital Adequacy": {
+      "faithfulness": 10,
+      "numerical_accuracy": 10,
+      "trend_accuracy": 10,
+      "reasoning_quality": 9,
+      "completeness": 9,
+      "hallucination": 10,
+      "justification": "The CET1 trend matches the ground truth exactly. No hallucinations or omissions."
+    },
+    "Key Risks and Watch Points": {
+      "faithfulness": 5,
+      "numerical_accuracy": 10,
+      "trend_accuracy": 8,
+      "reasoning_quality": 7,
+      "completeness": 4,
+      "hallucination": 10,
+      "justification": "The model mentions only a few risks (NBI deceleration, NPL rise, cost‑to‑income, liquidity) and omits macroeconomic, sovereign, concentration, and margin compression risks highlighted in the ground truth. No hallucinated facts, but the coverage is incomplete."
+    },
+    "Conclusion": {
+      "faithfulness": 7,
+      "numerical_accuracy": 10,
+      "trend_accuracy": 8,
+      "reasoning_quality": 8,
+      "completeness": 6,
+      "hallucination": 10,
+      "justification": "The conclusion reflects many of the ground truth points (profitability, efficiency, asset quality, capital, liquidity) but misses macro‑environment concerns, controlled credit risk, and the moderate growth outlook. No hallucinations are present."
+    }
+  },
+  "test_case_004|groq|Llama 3.1|llama-3.1-8b-instant|openai/gpt-oss-20b|c2dc13eaa7aabeb7": {
+    "Executive Summary": {
+      "faithfulness": 6,
+      "numerical_accuracy": 0,
+      "trend_accuracy": 8,
+      "reasoning_quality": 5,
+      "completeness": 4,
+      "hallucination": 4,
+      "justification": "Model adds specific growth percentages not present in ground truth, but correctly states overall improvement. Numbers are hallucinated, so faithfulness moderate, hallucination present."
+    },
+    "Profitability and Operational Efficiency": {
+      "faithfulness": 8,
+      "numerical_accuracy": 10,
+      "trend_accuracy": 10,
+      "reasoning_quality": 7,
+      "completeness": 6,
+      "hallucination": 4,
+      "justification": "Model accurately reports net income, ROE, cost-to-income; adds operating expense increase not in ground truth, slight hallucination."
+    },
+    "Revenue Dynamics": {
+      "faithfulness": 6,
+      "numerical_accuracy": 7,
+      "trend_accuracy": 6,
+      "reasoning_quality": 5,
+      "completeness": 4,
+      "hallucination": 4,
+      "justification": "Model correctly states NBI growth but overstates loan growth; missing moderation of growth; hallucination in loan growth."
+    },
+    "Asset Quality and Risk Profile": {
+      "faithfulness": 7,
+      "numerical_accuracy": 8,
+      "trend_accuracy": 7,
+      "reasoning_quality": 5,
+      "completeness": 4,
+      "hallucination": 3,
+      "justification": "Model matches NPL and coverage ratio; cost of risk trend mismatch; small hallucination."
+    },
+    "Balance Sheet Structure and Liquidity": {
+      "faithfulness": 6,
+      "numerical_accuracy": 4,
+      "trend_accuracy": 8,
+      "reasoning_quality": 5,
+      "completeness": 4,
+      "hallucination": 4,
+      "justification": "Model states asset growth 25% not in ground truth; loan-to-deposit ratio correct; missing liquidity metrics; hallucination."
+    },
+    "Capital Adequacy": {
+      "faithfulness": 10,
+      "numerical_accuracy": 10,
+      "trend_accuracy": 10,
+      "reasoning_quality": 5,
+      "completeness": 7,
+      "hallucination": 0,
+      "justification": "Model fully matches ground truth; no hallucination."
+    },
+    "Key Risks and Watch Points": {
+      "faithfulness": 4,
+      "numerical_accuracy": 0,
+      "trend_accuracy": 0,
+      "reasoning_quality": 4,
+      "completeness": 2,
+      "hallucination": 0,
+      "justification": "Model omits key risks; incomplete; no hallucination."
+    },
+    "Conclusion": {
+      "faithfulness": 5,
+      "numerical_accuracy": 0,
+      "trend_accuracy": 0,
+      "reasoning_quality": 5,
+      "completeness": 3,
+      "hallucination": 0,
+      "justification": "Model repeats some points but omits many; incomplete; no hallucination."
+    }
+  }
+}

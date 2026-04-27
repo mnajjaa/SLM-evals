@@ -1,0 +1,175 @@
+case_id,provider,model_label,model_name,prompt_uri,prompt_name,prompt_version,temperature,max_tokens,latency_sec,output_text,prompt_tokens,completion_tokens,total_tokens,reference_output
+test_case_002,azure_openai_compatible,Phi-4,Phi-4-experimentation-investment-nextgen,prompts:/financial_analysis_baseline/5,financial_analysis_baseline,5,0.0,1200,28.7383,"# Financial Analysis – Banque Internationale Arabe de Tunisie (BIAT)
+
+## Executive Summary
+
+Banque Internationale Arabe de Tunisie (BIAT) has demonstrated consistent growth and improved financial performance from 2021 to 2024. The bank has shown strong profitability, efficient cost management, and a stable risk profile. Key highlights include a steady increase in Net Banking Income (NBI), a reduction in the Cost of Risk, and robust capital adequacy. However, growth rates in NBI, loans, and deposits have shown a slight deceleration in 2024.
+
+## Profitability & Efficiency
+
+BIAT's profitability metrics have improved over the period, with Return on Equity (ROE) increasing from 15.6% in 2021 to 17.5% in 2024, and Return on Assets (ROA) rising from 1.56% to 1.87%. This indicates effective use of equity and assets to generate profits. The Cost-to-Income ratio has decreased from 49.5% in 2021 to 45.5% in 2024, reflecting improved operational efficiency and cost management.
+
+## Revenue Dynamics
+
+Net Banking Income (NBI) has grown consistently, with a compound annual growth rate (CAGR) of approximately 10.1% from 2021 to 2024. The growth rate, however, has slightly decelerated from 12.4% in 2022 to 9.8% in 2024. This deceleration may warrant attention to ensure sustained revenue growth in the future.
+
+## Risk Profile
+
+The bank's risk profile has shown improvement, with the Non-Performing Loan (NPL) ratio decreasing from 8.5% in 2021 to 7.8% in 2024. The Coverage Ratio has also improved, reaching 70% in 2023 before slightly declining to 69% in 2024. The Cost of Risk as a percentage of loans has decreased from 1.25% in 2021 to 0.89% in 2024, indicating better risk management and lower credit losses.
+
+## Liquidity & Balance Sheet
+
+BIAT's liquidity position remains strong, with the Liquidity Coverage Ratio (LCR) consistently above 120% throughout the period, peaking at 130% in 2023 before a slight decline to 128% in 2024. The Loan-to-Deposit Ratio has remained stable at around 90%, indicating a balanced approach to liquidity management.
+
+## Capital Adequacy
+
+The bank's capital adequacy has improved, with the Common Equity Tier 1 (CET1) Ratio increasing from 11.5% in 2021 to 12.5% in 2024. This indicates a strong capital base, enhancing the bank's ability to absorb potential losses and support growth.
+
+## Conclusion
+
+BIAT has demonstrated strong financial performance, characterized by improved profitability, efficient cost management, and a stable risk profile. The bank's capital adequacy and liquidity positions are robust, supporting its growth and stability. While the deceleration in growth rates for NBI, loans, and deposits in 2024 is a point of consideration, the overall financial health of BIAT remains strong. Continued focus on maintaining profitability, managing risks, and ensuring liquidity will be crucial for sustaining future growth.",784,691,1475,"# Financial Analysis – Banque Internationale Arabe de Tunisie (BIAT)
+
+## Executive Summary
+Over the 2021–2024 period, BIAT demonstrates a consistent and well-balanced financial performance, combining solid revenue growth, improving efficiency, and controlled risk metrics. The bank gradually transitions from a high-growth phase toward a more mature and optimized operating model, while maintaining strong capital and liquidity buffers.
+
+Overall, BIAT stands out as a high-quality banking franchise within the Tunisian market, with resilient fundamentals and disciplined execution.
+
+## Profitability and Operational Efficiency
+Profitability has strengthened steadily across the period. Net income increased from TND 280 million in 2021 to TND 420 million in 2024, translating into a return on equity rising from 15.6% to approximately 17.5%.
+
+This improvement is primarily driven by two structural factors. First, revenue growth has remained robust, supported by expanding lending activity and stable funding conditions. Second, the bank has achieved progressive efficiency gains, with the cost-to-income ratio declining from 49.5% to 45.5%.
+
+This combination of top-line growth and cost discipline indicates that BIAT is benefiting from operating leverage, likely supported by digitalization initiatives and scale effects. At current levels, profitability is approaching best-in-class standards for comparable emerging market banks.
+
+## Revenue Dynamics
+Net Banking Income (NBI) grew consistently over the period, increasing from TND 1,050 million in 2021 to TND 1,450 million in 2024. While growth remains strong, there is a visible moderation in momentum, with annual growth rates declining from above 12% to below 10%.
+
+Loan growth, averaging around 9–10% annually, remains the primary driver, complemented by a stable and expanding deposit base. This suggests that BIAT continues to benefit from core commercial banking activity, with a balanced contribution between volume expansion and margin stability.
+
+The gradual slowdown in growth indicates a transition toward a more mature phase, where efficiency and optimization become more important than pure expansion.
+
+## Asset Quality and Risk Profile
+The bank’s risk profile shows overall improvement, with early signs of stabilization. The non-performing loan (NPL) ratio declined from 8.5% in 2021 to 7.6% in 2023, before slightly increasing to 7.8% in 2024.
+
+At the same time, provisioning discipline strengthened, with the coverage ratio reaching around 70%. The cost of risk decreased steadily as a percentage of loans, reflecting improved credit quality and effective risk management practices.
+
+The slight uptick in NPLs in 2024 may signal emerging macroeconomic pressures, but at this stage it remains contained and does not materially alter the overall risk trajectory.
+
+## Balance Sheet Structure and Liquidity
+BIAT maintains a sound and conservative balance sheet structure. Loan growth is consistently funded by deposits, with the loan-to-deposit ratio remaining stable at around 90% throughout the period.
+
+Liquidity metrics are strong, with the Liquidity Coverage Ratio (LCR) consistently above 120%, indicating a comfortable buffer against short-term stress scenarios.
+
+This profile reflects a traditional and resilient funding model, limiting reliance on volatile wholesale funding and reinforcing the bank’s stability.
+
+## Capital Adequacy
+Capitalization has improved gradually, with the CET1 ratio increasing from 11.5% in 2021 to 12.5% in 2024. This evolution is mainly driven by organic capital generation through retained earnings.
+
+At these levels, BIAT maintains a solid buffer above regulatory requirements, providing flexibility to support future growth, absorb potential shocks, or sustain dividend distributions.
+
+## Key Risks and Watch Points
+Despite the overall strong performance, several risk factors should be monitored closely:
+
+- Exposure to the Tunisian macroeconomic environment and sovereign risk  
+- Potential credit concentration in certain corporate sectors  
+- Risk of margin compression in a changing interest rate environment  
+- The slight deterioration in asset quality observed in 2024, which may signal early stress  
+
+## Conclusion
+BIAT’s financial profile over 2021–2024 reflects a well-managed and fundamentally strong institution. The bank combines:
+
+- Sustained profitability  
+- Continuous efficiency improvements  
+- Controlled credit risk  
+- Strong capital and liquidity positions  
+
+As growth naturally moderates, the key differentiator going forward will be BIAT’s ability to maintain efficiency gains and manage emerging risks in a more constrained macroeconomic environment.
+
+Overall, the bank remains well-positioned, resilient, and structurally sound, with a moderate but sustainable growth outlook."
+test_case_002,groq,Llama 3.1,llama-3.1-8b-instant,prompts:/financial_analysis_baseline/5,financial_analysis_baseline,5,0.0,1200,1.2155,"**Financial Analysis Report: Banque Internationale Arabe de Tunisie (BIAT)**
+
+**Executive Summary**
+
+Banque Internationale Arabe de Tunisie (BIAT) has demonstrated a steady improvement in its financial performance over the past four years. Net Banking Income (NBI) has grown by 38.1% from TND 1050 million in 2021 to TND 1450 million in 2024, while Net Income has increased by 50% during the same period. The bank's profitability and efficiency have also improved, with Return on Equity (ROE) and Return on Assets (ROA) increasing to 17.5% and 1.87%, respectively. However, the bank's risk profile remains a concern, with a Non-Performing Loan (NPL) ratio of 7.8% in 2024.
+
+**Profitability & Efficiency**
+
+BIAT's profitability has improved significantly over the past four years, with Net Income growing by 50% from TND 280 million in 2021 to TND 420 million in 2024. The bank's Return on Equity (ROE) has increased from 15.6% in 2021 to 17.5% in 2024, while Return on Assets (ROA) has risen from 1.56% to 1.87%. The Cost-to-Income ratio has also decreased from 49.5% in 2021 to 45.5% in 2024, indicating improved efficiency.
+
+**Revenue Dynamics**
+
+Net Banking Income (NBI) has grown by 38.1% from TND 1050 million in 2021 to TND 1450 million in 2024, driven by a 9.8% growth in 2024. The bank's revenue growth has been steady, with an average annual growth rate of 10.5% over the past four years. Loan growth has been moderate, with an average annual growth rate of 9.2% over the same period.
+
+**Risk Profile**
+
+BIAT's risk profile remains a concern, with a Non-Performing Loan (NPL) ratio of 7.8% in 2024. The bank's Cost of Risk has decreased from 1.25% in 2021 to 0.89% in 2024, indicating improved risk management. However, the Loan-to-Deposit ratio has remained stable at 90% over the past four years, indicating a moderate level of risk.
+
+**Liquidity & Balance Sheet**
+
+BIAT's balance sheet has grown steadily over the past four years, with Total Assets increasing from TND 18000 million in 2021 to TND 22500 million in 2024. The bank's Equity has also grown, from TND 1800 million in 2021 to TND 2400 million in 2024. Deposits have grown at a moderate pace, with an average annual growth rate of 8.5% over the past four years.
+
+**Capital Adequacy**
+
+BIAT's Capital Adequacy Ratio (CAR) is not explicitly stated in the provided data. However, the Common Equity Tier 1 (CET1) ratio has increased from 11.5% in 2021 to 12.5% in 2024, indicating a strong capital position.
+
+**Conclusion**
+
+In conclusion, BIAT has demonstrated a steady improvement in its financial performance over the past four years. The bank's profitability and efficiency have improved, with a strong increase in Net Income and a decrease in the Cost-to-Income ratio. However, the bank's risk profile remains a concern, with a moderate NPL ratio and a stable Loan-to-Deposit ratio. To further improve its financial performance, BIAT should focus on reducing its NPL ratio and improving its risk management practices.",809,796,1605,"# Financial Analysis – Banque Internationale Arabe de Tunisie (BIAT)
+
+## Executive Summary
+Over the 2021–2024 period, BIAT demonstrates a consistent and well-balanced financial performance, combining solid revenue growth, improving efficiency, and controlled risk metrics. The bank gradually transitions from a high-growth phase toward a more mature and optimized operating model, while maintaining strong capital and liquidity buffers.
+
+Overall, BIAT stands out as a high-quality banking franchise within the Tunisian market, with resilient fundamentals and disciplined execution.
+
+## Profitability and Operational Efficiency
+Profitability has strengthened steadily across the period. Net income increased from TND 280 million in 2021 to TND 420 million in 2024, translating into a return on equity rising from 15.6% to approximately 17.5%.
+
+This improvement is primarily driven by two structural factors. First, revenue growth has remained robust, supported by expanding lending activity and stable funding conditions. Second, the bank has achieved progressive efficiency gains, with the cost-to-income ratio declining from 49.5% to 45.5%.
+
+This combination of top-line growth and cost discipline indicates that BIAT is benefiting from operating leverage, likely supported by digitalization initiatives and scale effects. At current levels, profitability is approaching best-in-class standards for comparable emerging market banks.
+
+## Revenue Dynamics
+Net Banking Income (NBI) grew consistently over the period, increasing from TND 1,050 million in 2021 to TND 1,450 million in 2024. While growth remains strong, there is a visible moderation in momentum, with annual growth rates declining from above 12% to below 10%.
+
+Loan growth, averaging around 9–10% annually, remains the primary driver, complemented by a stable and expanding deposit base. This suggests that BIAT continues to benefit from core commercial banking activity, with a balanced contribution between volume expansion and margin stability.
+
+The gradual slowdown in growth indicates a transition toward a more mature phase, where efficiency and optimization become more important than pure expansion.
+
+## Asset Quality and Risk Profile
+The bank’s risk profile shows overall improvement, with early signs of stabilization. The non-performing loan (NPL) ratio declined from 8.5% in 2021 to 7.6% in 2023, before slightly increasing to 7.8% in 2024.
+
+At the same time, provisioning discipline strengthened, with the coverage ratio reaching around 70%. The cost of risk decreased steadily as a percentage of loans, reflecting improved credit quality and effective risk management practices.
+
+The slight uptick in NPLs in 2024 may signal emerging macroeconomic pressures, but at this stage it remains contained and does not materially alter the overall risk trajectory.
+
+## Balance Sheet Structure and Liquidity
+BIAT maintains a sound and conservative balance sheet structure. Loan growth is consistently funded by deposits, with the loan-to-deposit ratio remaining stable at around 90% throughout the period.
+
+Liquidity metrics are strong, with the Liquidity Coverage Ratio (LCR) consistently above 120%, indicating a comfortable buffer against short-term stress scenarios.
+
+This profile reflects a traditional and resilient funding model, limiting reliance on volatile wholesale funding and reinforcing the bank’s stability.
+
+## Capital Adequacy
+Capitalization has improved gradually, with the CET1 ratio increasing from 11.5% in 2021 to 12.5% in 2024. This evolution is mainly driven by organic capital generation through retained earnings.
+
+At these levels, BIAT maintains a solid buffer above regulatory requirements, providing flexibility to support future growth, absorb potential shocks, or sustain dividend distributions.
+
+## Key Risks and Watch Points
+Despite the overall strong performance, several risk factors should be monitored closely:
+
+- Exposure to the Tunisian macroeconomic environment and sovereign risk  
+- Potential credit concentration in certain corporate sectors  
+- Risk of margin compression in a changing interest rate environment  
+- The slight deterioration in asset quality observed in 2024, which may signal early stress  
+
+## Conclusion
+BIAT’s financial profile over 2021–2024 reflects a well-managed and fundamentally strong institution. The bank combines:
+
+- Sustained profitability  
+- Continuous efficiency improvements  
+- Controlled credit risk  
+- Strong capital and liquidity positions  
+
+As growth naturally moderates, the key differentiator going forward will be BIAT’s ability to maintain efficiency gains and manage emerging risks in a more constrained macroeconomic environment.
+
+Overall, the bank remains well-positioned, resilient, and structurally sound, with a moderate but sustainable growth outlook."

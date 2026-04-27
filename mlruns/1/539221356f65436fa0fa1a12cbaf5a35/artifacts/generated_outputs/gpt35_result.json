@@ -1,0 +1,16 @@
+{
+  "case_id": "BIAT_2021_2024_v1",
+  "provider": "openai",
+  "model_label": "GPT-3.5",
+  "model_name": "gpt-3.5-turbo",
+  "prompt_uri": "prompts:/financial_analysis_baseline/1",
+  "prompt_name": "financial_analysis_baseline",
+  "prompt_version": 1,
+  "temperature": 0.0,
+  "max_tokens": 1200,
+  "latency_sec": 12.194,
+  "output_text": "### Financial Analysis Report - Banque Internationale Arabe de Tunisie (BIAT)\n\n#### Profitability\n- Net Banking Income (NBI) has shown a consistent growth from TND 1050 million in 2021 to TND 1450 million in 2024, indicating a positive revenue trend.\n- Net Income has also increased steadily from TND 280 million in 2021 to TND 420 million in 2024, reflecting improving profitability.\n- The Cost of Risk has slightly fluctuated but remained relatively stable over the years, which is a positive sign for the bank's risk management.\n\n#### Revenue Dynamics\n- The bank has experienced growth in Total Assets, Loans, and Deposits from 2021 to 2024, indicating an expansion in its business operations.\n- Loans have increased from TND 12000 million in 2021 to TND 15800 million in 2024, showing a growing loan portfolio.\n- Deposits have also shown a consistent rise from TND 13500 million in 2021 to TND 17500 million in 2024, reflecting increasing customer trust and deposits.\n\n#### Risk Profile\n- The Cost of Risk as a percentage of Loans has decreased from 1.25% in 2021 to 0.89% in 2024, indicating improved asset quality and lower credit risk.\n- The Loans to Deposits ratio has been gradually increasing, reaching 90.3% in 2024, which suggests a higher dependency on deposits to fund loans.\n- The Equity to Assets ratio has also shown a positive trend, increasing from 10.0% in 2021 to 10.7% in 2024, indicating a strengthening capital position.\n\n#### Liquidity\n- The bank's increasing Deposits and stable Cost of Risk indicate a healthy liquidity position, with sufficient funds to cover potential losses.\n\n#### Capital Adequacy\n- The Equity to Assets ratio has been consistently above 10%, meeting regulatory requirements and indicating a sound capital adequacy position.\n\n### Conclusion\nBanque Internationale Arabe de Tunisie (BIAT) has demonstrated positive financial performance over the years, with growing revenues, improving profitability, and a strengthening risk profile. The bank's focus on managing costs, maintaining asset quality, and strengthening capital adequacy bodes well for its future stability and growth.",
+  "prompt_tokens": 434,
+  "completion_tokens": 480,
+  "total_tokens": 914
+}

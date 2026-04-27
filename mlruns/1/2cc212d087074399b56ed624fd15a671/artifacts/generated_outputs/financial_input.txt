@@ -1,0 +1,25 @@
+
+Financial Analysis – Banque Internationale Arabe de Tunisie (BIAT)
+
+Income Statement (TND millions)
+
+Metric | 2021 | 2022 | 2023 | 2024
+Net Banking Income (NBI) | 1050 | 1180 | 1320 | 1450
+Operating Expenses | 520 | 560 | 610 | 660
+Cost of Risk | 150 | 140 | 135 | 140
+Net Income | 280 | 330 | 390 | 420
+
+Balance Sheet (TND millions)
+
+Metric | 2021 | 2022 | 2023 | 2024
+Total Assets | 18000 | 19500 | 21000 | 22500
+Loans | 12000 | 13200 | 14500 | 15800
+Deposits | 13500 | 14800 | 16200 | 17500
+Equity | 1800 | 2000 | 2200 | 2400
+
+Risk & Capital Indicators
+
+Metric | 2021 | 2022 | 2023 | 2024
+Cost of Risk / Loans (%) | 1.25 | 1.06 | 0.93 | 0.89
+Loans / Deposits (%) | 88.9 | 89.2 | 89.5 | 90.3
+Equity / Assets (%) | 10.0 | 10.3 | 10.5 | 10.7

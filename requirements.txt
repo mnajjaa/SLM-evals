@@ -1,0 +1,10 @@
+openai
+jupyter
+ipykernel
+python-dotenv
+pandas
+mlflow[genai]
+Groq
+langchain-groq
+ragas[metrics]
+datasets
