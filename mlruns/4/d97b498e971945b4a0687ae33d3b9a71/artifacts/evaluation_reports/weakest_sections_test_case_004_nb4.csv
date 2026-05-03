@@ -1,0 +1,5 @@
+model_label,weakness_rank,section,section_score,quality_score,safety_score,justification
+Llama 3.1,1,Key Risks and Watch Points,0.1,0.0,0.5,"The model provides no content, whereas the ground truth lists several risk factors. The section is entirely incomplete and not faithful."
+Llama 3.1,2,Key Risks and Watch Points,0.1,0.0,0.5,"The model provides no content, whereas the ground truth lists several risk factors. The section is entirely incomplete and not faithful."
+Phi-4,1,Key Risks and Watch Points,0.424,0.32999999999999996,0.8,"Only the slight NPL increase and NBI deceleration are mentioned, omitting macroeconomic exposure, concentration risk, and margin compression. The section is incomplete but contains no hallucinated content."
+Phi-4,2,Key Risks and Watch Points,0.454,0.48,0.35,"The model lists only a few risks, missing macro, sovereign, concentration and margin compression risks from the ground truth. No incorrect numbers are introduced, so numerical accuracy is high. Reasoning is generic. Hallucination is low."

@@ -1,0 +1,3 @@
+model_label,sample_id,semantic_similarity,answer_correctness,answer_sections_scored,factual_correctness,factual_sections_scored,ragas_mean_score
+Llama 3.1,1,0.7863050214991216,0.6351913832260228,8,0.35875,8,0.5934154682417149
+Phi-4,0,0.8300563274930448,0.644740565695318,8,0.38875,8,0.6211822977294542

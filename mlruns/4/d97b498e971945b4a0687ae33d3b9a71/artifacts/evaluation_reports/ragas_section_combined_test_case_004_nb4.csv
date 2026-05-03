@@ -1,0 +1,17 @@
+model_label,sample_id,section,section_order,answer_correctness,factual_correctness
+Llama 3.1,1,Executive Summary,0,0.5707368190753138,0.18
+Llama 3.1,1,Profitability and Operational Efficiency,1,0.5964908645245639,0.37
+Llama 3.1,1,Revenue Dynamics,2,0.8339271414278577,0.19
+Llama 3.1,1,Asset Quality and Risk Profile,3,0.7373574292437874,0.52
+Llama 3.1,1,Balance Sheet Structure and Liquidity,4,0.6229726758912663,0.17
+Llama 3.1,1,Capital Adequacy,5,0.6626996217115643,0.5
+Llama 3.1,1,Key Risks and Watch Points,6,0.4529865875733558,0.15
+Llama 3.1,1,Conclusion,7,0.6517936730869653,0.53
+Phi-4,0,Executive Summary,0,,0.44
+Phi-4,0,Profitability and Operational Efficiency,1,0.5753686166932437,0.25
+Phi-4,0,Revenue Dynamics,2,0.6664829173178332,0.14
+Phi-4,0,Asset Quality and Risk Profile,3,0.5988487569089066,0.33
+Phi-4,0,Balance Sheet Structure and Liquidity,4,0.6435418843542873,0.31
+Phi-4,0,Capital Adequacy,5,0.7175818928727533,0.83
+Phi-4,0,Key Risks and Watch Points,6,0.48881733572464997,0.0
+Phi-4,0,Conclusion,7,0.7864070445016772,0.67

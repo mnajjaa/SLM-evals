@@ -1,0 +1,5 @@
+model_label,weakness_rank,section,section_score,quality_score,safety_score,justification
+Llama 3.1,1,Key Risks and Watch Points,0.1,0.0,0.5,"The model output provides no information, whereas the ground truth lists several key risks. The section is entirely incomplete and not faithful."
+Llama 3.1,2,Key Risks and Watch Points,0.1,0.0,0.5,"The model provides no risk information, whereas the ground truth lists several key risks. This results in zero scores across all criteria."
+Phi-4,1,Key Risks and Watch Points,0.394,0.43,0.25,"The model lists only a few risks, missing macro, sovereign, concentration, margin compression, and asset quality concerns from the ground truth. Faithfulness and completeness are low, but the facts presented are not hallucinated."
+Phi-4,2,Key Risks and Watch Points,0.504,0.43,0.8,"The model only mentions NPL and LCR changes, missing macro‑environment, concentration, and margin compression risks listed in the ground truth. Faithfulness and completeness are therefore low."
